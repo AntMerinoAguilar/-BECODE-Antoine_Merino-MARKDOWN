@@ -34,17 +34,15 @@ This project represents my first step toward mastering this fundamental tool for
 ## Repository Structure 📂
 
 The repository contains the following files:
-
-    Exo 0 - schedule.md: Exercise on creating a schedule in Markdown.
-    Exo 1 - JuniorDev.md: Exercise on writing a junior developer profile in Markdown.
-    README.md: This file, providing an overview of the project.
+- `Exo 0 - schedule.md`: Exercise on creating a schedule in Markdown.
+- `Exo 1 - JuniorDev.md`: Exercise on writing a junior developer profile in Markdown.
+- `README.md`: This file, providing an overview of the project.
 
 ## Useful Resources 📚
 
 To learn more about Markdown:
-
-    GitHub Markdown Guide
-    Daring Fireball: Markdown Syntax
+- [GitHub Markdown Guide](https://docs.github.com/fr/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
+- [Daring Fireball: Markdown Syntax](https://daringfireball.net/projects/markdown/syntax)
 
 ---
 
